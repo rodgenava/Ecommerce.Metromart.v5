@@ -1,0 +1,1212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\service\\localdatapath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\service\\localdatapath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\service\\sftppandamart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\service\\sftppandamart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\pandamart\\sendpandamartupdatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\pandamart\\sendpandamartupdatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\infrastructure.data\\pandamart\\pandamartpriceinventoryupdatebywarehousequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|solutionrelative:priceinventoryupdates\\infrastructure.data\\pandamart\\pandamartpriceinventoryupdatebywarehousequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37848116-F371-435E-AAE5-7FDBEF55FA43}|PriceInventoryUpdates\\Data.Projections\\Data.Projections.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\data.projections\\pandamart\\pandamartstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37848116-F371-435E-AAE5-7FDBEF55FA43}|PriceInventoryUpdates\\Data.Projections\\Data.Projections.csproj|solutionrelative:priceinventoryupdates\\data.projections\\pandamart\\pandamartstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37848116-F371-435E-AAE5-7FDBEF55FA43}|PriceInventoryUpdates\\Data.Projections\\Data.Projections.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\data.projections\\pandamart\\pandamartpriceinventoryupdateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37848116-F371-435E-AAE5-7FDBEF55FA43}|PriceInventoryUpdates\\Data.Projections\\Data.Projections.csproj|solutionrelative:priceinventoryupdates\\data.projections\\pandamart\\pandamartpriceinventoryupdateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\pandamart\\pandamartupdatefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\pandamart\\pandamartupdatefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\ilocaldatapath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\ilocaldatapath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\isftppandamart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\isftppandamart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\consoleappbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\consoleappbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\diskdispatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\diskdispatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\pandamart\\isendpandamartupdatesservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\pandamart\\isendpandamartupdatesservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\infrastructure.data\\pandamart\\consignmentpandamartpriceinventoryupdatebywarehousequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|solutionrelative:priceinventoryupdates\\infrastructure.data\\pandamart\\consignmentpandamartpriceinventoryupdatebywarehousequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\infrastructure.data\\consignmentmetromartpriceinventoryupdatebywarehousequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|solutionrelative:priceinventoryupdates\\infrastructure.data\\consignmentmetromartpriceinventoryupdatebywarehousequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\ipandamartupdatefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\ipandamartupdatefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\sendupdatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\sendupdatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\imetromartupdatefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\imetromartupdatefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\metromartupdatefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\metromartupdatefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37848116-F371-435E-AAE5-7FDBEF55FA43}|PriceInventoryUpdates\\Data.Projections\\Data.Projections.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\data.projections\\metromartpriceinventoryupdateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37848116-F371-435E-AAE5-7FDBEF55FA43}|PriceInventoryUpdates\\Data.Projections\\Data.Projections.csproj|solutionrelative:priceinventoryupdates\\data.projections\\metromartpriceinventoryupdateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\infrastructure.data\\pandamart\\pandamartpriceinventoryupdateitemdataholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|solutionrelative:priceinventoryupdates\\infrastructure.data\\pandamart\\pandamartpriceinventoryupdateitemdataholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\infrastructure.data\\pandamart\\allsnrwarehousetopandamartstoresmappingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|solutionrelative:priceinventoryupdates\\infrastructure.data\\pandamart\\allsnrwarehousetopandamartstoresmappingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\pandamart\\pandamartupdatepathconventionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\pandamart\\pandamartupdatepathconventionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\metromartupdatepathconventionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\metromartupdatepathconventionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\infrastructure.external.amazons3\\amazons3dispatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\infrastructure.external.amazons3\\amazons3dispatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\imetromartupdatepathconvention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\imetromartupdatepathconvention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37848116-F371-435E-AAE5-7FDBEF55FA43}|PriceInventoryUpdates\\Data.Projections\\Data.Projections.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\data.projections\\metromartstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37848116-F371-435E-AAE5-7FDBEF55FA43}|PriceInventoryUpdates\\Data.Projections\\Data.Projections.csproj|solutionrelative:priceinventoryupdates\\data.projections\\metromartstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E5B70-50D2-4B51-B9C8-48B631368C61}|modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\data-common-contracts-net-core\\data.common.contracts\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E5B70-50D2-4B51-B9C8-48B631368C61}|modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj|solutionrelative:modules\\data-common-contracts-net-core\\data.common.contracts\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\sendupdatesservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\sendupdatesservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\entities\\sftpinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\entities\\sftpinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\entities\\sftpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\entities\\sftpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\entities\\sftpdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\entities\\sftpdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\entities\\sftpcredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\entities\\sftpcredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\infrastructure.data\\metromartpriceinventoryupdatebywarehousequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|solutionrelative:priceinventoryupdates\\infrastructure.data\\metromartpriceinventoryupdatebywarehousequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\infrastructure.data\\allsnrwarehousetometromartstoresmappingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB14A60-F175-46BB-A9E4-8B6DBEF5D717}|PriceInventoryUpdates\\Infrastructure.Data\\Infrastructure.Data.csproj|solutionrelative:priceinventoryupdates\\infrastructure.data\\allsnrwarehousetometromartstoresmappingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\priceinventoryupdatesconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\priceinventoryupdatesconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\priceinventoryupdatesconsoleapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4D8320C-CACB-4C2D-8321-E9F75A4D1B79}|PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj|solutionrelative:priceinventoryupdates\\priceinventoryupdatesconsoleapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\idispatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\idispatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\isqlprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\isqlprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\imetromartupdatepathconventionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\imetromartupdatepathconventionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\isendpandamartupdatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\isendpandamartupdatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\isendupdatesservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\isendupdatesservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\entities\\metromartpriceinventoryupdateitemdataholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\entities\\metromartpriceinventoryupdateitemdataholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\entities\\pandamartpriceinventoryupdateitemdataholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\entities\\pandamartpriceinventoryupdateitemdataholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\entities\\dataholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\entities\\dataholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\entities\\dataholderpandamart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\entities\\dataholderpandamart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37848116-F371-435E-AAE5-7FDBEF55FA43}|PriceInventoryUpdates\\Data.Projections\\Data.Projections.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\data.projections\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37848116-F371-435E-AAE5-7FDBEF55FA43}|PriceInventoryUpdates\\Data.Projections\\Data.Projections.csproj|solutionrelative:priceinventoryupdates\\data.projections\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\isendupdatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\isendupdatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\imetromartsftpipaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\imetromartsftpipaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\imetromartsftpipaddressfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\imetromartsftpipaddressfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\isendpandamartupdatesservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\isendpandamartupdatesservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\ipandamartupdatepathconventionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\ipandamartupdatepathconventionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\priceinventoryupdates\\application\\interfaces\\ipandamartupdatepathconvention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08ADF2-B15D-4410-B9E6-84EE2997B7F5}|PriceInventoryUpdates\\Application\\Application.csproj|solutionrelative:priceinventoryupdates\\application\\interfaces\\ipandamartupdatepathconvention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\sqlcaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\sqlcaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\provider\\sqlserverprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\provider\\sqlserverprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\querying\\sqlquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\querying\\sqlquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\mapping\\dynamicmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\mapping\\dynamicmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\mapping\\datafieldattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\mapping\\datafieldattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E5B70-50D2-4B51-B9C8-48B631368C61}|modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\data-common-contracts-net-core\\data.common.contracts\\data.common.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{193E5B70-50D2-4B51-B9C8-48B631368C61}|modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj|solutionrelative:modules\\data-common-contracts-net-core\\data.common.contracts\\data.common.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\data.sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\data.sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\querying\\queryfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\querying\\queryfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\sqltransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\sqltransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\mapping\\fieldmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\mapping\\fieldmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\mapping\\idatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\mapping\\idatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\mapping\\reflectiondatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\mapping\\reflectiondatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\isqlcaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62797BE8-96AD-4702-9232-22E03242E265}|modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj|solutionrelative:modules\\sql-data-access-tool-wrapper-net-core\\data.sql\\isqlcaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E5B70-50D2-4B51-B9C8-48B631368C61}|modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\data-common-contracts-net-core\\data.common.contracts\\pageddatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E5B70-50D2-4B51-B9C8-48B631368C61}|modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj|solutionrelative:modules\\data-common-contracts-net-core\\data.common.contracts\\pageddatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E5B70-50D2-4B51-B9C8-48B631368C61}|modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\data-common-contracts-net-core\\data.common.contracts\\idatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E5B70-50D2-4B51-B9C8-48B631368C61}|modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj|solutionrelative:modules\\data-common-contracts-net-core\\data.common.contracts\\idatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E5B70-50D2-4B51-B9C8-48B631368C61}|modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj|c:\\users\\rnava\\myproject\\firstprojectsnr\\deploytoprod\\ecommerce.metromart.v5 github\\ecommerce.metromart.v5\\modules\\data-common-contracts-net-core\\data.common.contracts\\iasyncenumerablequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E5B70-50D2-4B51-B9C8-48B631368C61}|modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj|solutionrelative:modules\\data-common-contracts-net-core\\data.common.contracts\\iasyncenumerablequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsoleAppBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\ConsoleAppBackgroundService.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\ConsoleAppBackgroundService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\ConsoleAppBackgroundService.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\ConsoleAppBackgroundService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwDcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:26:57.994Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MetromartPriceInventoryUpdateItem.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Data.Projections\\MetromartPriceInventoryUpdateItem.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Data.Projections\\MetromartPriceInventoryUpdateItem.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Data.Projections\\MetromartPriceInventoryUpdateItem.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Data.Projections\\MetromartPriceInventoryUpdateItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:21:22.162Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MetromartUpdateFileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\MetromartUpdateFileWriter.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\MetromartUpdateFileWriter.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\MetromartUpdateFileWriter.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\MetromartUpdateFileWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:17:31.194Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsignmentMetromartPriceInventoryUpdateByWarehouseQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\ConsignmentMetromartPriceInventoryUpdateByWarehouseQuery.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Infrastructure.Data\\ConsignmentMetromartPriceInventoryUpdateByWarehouseQuery.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\ConsignmentMetromartPriceInventoryUpdateByWarehouseQuery.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Infrastructure.Data\\ConsignmentMetromartPriceInventoryUpdateByWarehouseQuery.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwBwAAAA9BAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:26:57.998Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SendUpdatesService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\SendUpdatesService.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\SendUpdatesService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\SendUpdatesService.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\SendUpdatesService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:26:57.985Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AmazonS3DispatchService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Infrastructure.External.AmazonS3\\AmazonS3DispatchService.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Infrastructure.External.AmazonS3\\AmazonS3DispatchService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Infrastructure.External.AmazonS3\\AmazonS3DispatchService.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Infrastructure.External.AmazonS3\\AmazonS3DispatchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:26:57.991Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MetromartUpdatePathConventionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\MetromartUpdatePathConventionFactory.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\MetromartUpdatePathConventionFactory.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\MetromartUpdatePathConventionFactory.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\MetromartUpdatePathConventionFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBgAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:26:57.993Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SendUpdatesServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\SendUpdatesServiceFactory.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\SendUpdatesServiceFactory.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\SendUpdatesServiceFactory.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\SendUpdatesServiceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:26:57.99Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MetromartPriceInventoryUpdateByWarehouseQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\MetromartPriceInventoryUpdateByWarehouseQuery.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Infrastructure.Data\\MetromartPriceInventoryUpdateByWarehouseQuery.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\MetromartPriceInventoryUpdateByWarehouseQuery.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Infrastructure.Data\\MetromartPriceInventoryUpdateByWarehouseQuery.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwCsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:34:59.55Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SqlCaller.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\SqlCaller.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\SqlCaller.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\SqlCaller.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\SqlCaller.cs",
+              "ViewState": "AQIAAOABAAAAAAAAAAAMwPYBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:42:09.034Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiskDispatchService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\DiskDispatchService.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\DiskDispatchService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\DiskDispatchService.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\DiskDispatchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:12:53.073Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AllSnrWarehouseToPandamartStoresMappingQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\AllSnrWarehouseToPandamartStoresMappingQuery.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\AllSnrWarehouseToPandamartStoresMappingQuery.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\AllSnrWarehouseToPandamartStoresMappingQuery.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\AllSnrWarehouseToPandamartStoresMappingQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBYAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:51:07.411Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IQuery.cs",
+              "RelativeDocumentMoniker": "modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IQuery.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IQuery.cs",
+              "RelativeToolTip": "modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IQuery.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAvwGMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:23:29.428Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SendPandaMartUpdatesService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Pandamart\\SendPandaMartUpdatesService.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Pandamart\\SendPandaMartUpdatesService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Pandamart\\SendPandaMartUpdatesService.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Pandamart\\SendPandaMartUpdatesService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvzYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:02:57.647Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISendPandaMartUpdatesServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Pandamart\\ISendPandaMartUpdatesServiceFactory.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Pandamart\\ISendPandaMartUpdatesServiceFactory.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Pandamart\\ISendPandaMartUpdatesServiceFactory.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Pandamart\\ISendPandaMartUpdatesServiceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:35:01.222Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PandamartUpdatePathConventionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Pandamart\\PandamartUpdatePathConventionFactory.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Pandamart\\PandamartUpdatePathConventionFactory.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Pandamart\\PandamartUpdatePathConventionFactory.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Pandamart\\PandamartUpdatePathConventionFactory.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwDoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:44:29.333Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Program.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Program.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAOQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:26:57.988Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.json",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T09:26:57.987Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PandamartUpdateFileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Pandamart\\PandamartUpdateFileWriter.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Pandamart\\PandamartUpdateFileWriter.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Pandamart\\PandamartUpdateFileWriter.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Pandamart\\PandamartUpdateFileWriter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:43:47.668Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SFTPPandamart.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Service\\SFTPPandamart.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Service\\SFTPPandamart.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Service\\SFTPPandamart.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Service\\SFTPPandamart.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwGUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:51:53.373Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISFTPPandamart.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ISFTPPandamart.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\ISFTPPandamart.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ISFTPPandamart.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\ISFTPPandamart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:02:12.033Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.Production.json",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T09:26:57.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILocalDataPath.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ILocalDataPath.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\ILocalDataPath.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ILocalDataPath.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\ILocalDataPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:17:09.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalDataPath.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Service\\LocalDataPath.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Service\\LocalDataPath.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Service\\LocalDataPath.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Service\\LocalDataPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:10:49.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PandamartPriceInventoryUpdateItem.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Data.Projections\\Pandamart\\PandamartPriceInventoryUpdateItem.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Data.Projections\\Pandamart\\PandamartPriceInventoryUpdateItem.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Data.Projections\\Pandamart\\PandamartPriceInventoryUpdateItem.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Data.Projections\\Pandamart\\PandamartPriceInventoryUpdateItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:59:54.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PandamartStore.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Data.Projections\\Pandamart\\PandamartStore.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Data.Projections\\Pandamart\\PandamartStore.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Data.Projections\\Pandamart\\PandamartStore.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Data.Projections\\Pandamart\\PandamartStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:01:26.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PandamartPriceInventoryUpdateByWarehouseQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\PandamartPriceInventoryUpdateByWarehouseQuery.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\PandamartPriceInventoryUpdateByWarehouseQuery.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\PandamartPriceInventoryUpdateByWarehouseQuery.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\PandamartPriceInventoryUpdateByWarehouseQuery.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:26:30.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.Development.json",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T09:26:57.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsignmentPandamartPriceInventoryUpdateByWarehouseQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\ConsignmentPandamartPriceInventoryUpdateByWarehouseQuery.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\ConsignmentPandamartPriceInventoryUpdateByWarehouseQuery.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\ConsignmentPandamartPriceInventoryUpdateByWarehouseQuery.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\ConsignmentPandamartPriceInventoryUpdateByWarehouseQuery.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA7wBsAAABeBAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:32:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPandamartUpdateFileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdateFileWriter.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdateFileWriter.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdateFileWriter.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdateFileWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:47:10.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMetromartUpdateFileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdateFileWriter.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdateFileWriter.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdateFileWriter.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdateFileWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:52:38.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IMetromartUpdatePathConvention.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdatePathConvention.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdatePathConvention.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdatePathConvention.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdatePathConvention.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:54:30.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MetromartStore.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Data.Projections\\MetromartStore.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Data.Projections\\MetromartStore.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Data.Projections\\MetromartStore.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Data.Projections\\MetromartStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:50:18.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PandamartPriceInventoryUpdateItemDataHolder.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\PandamartPriceInventoryUpdateItemDataHolder.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\PandamartPriceInventoryUpdateItemDataHolder.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\PandamartPriceInventoryUpdateItemDataHolder.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Infrastructure.Data\\Pandamart\\PandamartPriceInventoryUpdateItemDataHolder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:35:09.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SFTPInfo.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\SFTPInfo.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Entities\\SFTPInfo.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\SFTPInfo.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Entities\\SFTPInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:45:27.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SFTPDirectory.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\SFTPDirectory.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Entities\\SFTPDirectory.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\SFTPDirectory.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Entities\\SFTPDirectory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:46:11.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SFTPCredential.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\SFTPCredential.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Entities\\SFTPCredential.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\SFTPCredential.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Entities\\SFTPCredential.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:45:52.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SFTPConnection.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\SFTPConnection.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Entities\\SFTPConnection.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\SFTPConnection.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Entities\\SFTPConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:46:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AllSnrWarehouseToMetromartStoresMappingQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\AllSnrWarehouseToMetromartStoresMappingQuery.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Infrastructure.Data\\AllSnrWarehouseToMetromartStoresMappingQuery.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Infrastructure.Data\\AllSnrWarehouseToMetromartStoresMappingQuery.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Infrastructure.Data\\AllSnrWarehouseToMetromartStoresMappingQuery.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBYAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:53:26.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PriceInventoryUpdatesConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\PriceInventoryUpdatesConsoleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T06:19:37.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PriceInventoryUpdates\\PriceInventoryUpdatesConsoleApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T02:35:00.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IDispatchService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IDispatchService.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\IDispatchService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IDispatchService.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\IDispatchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:50:52.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ISqlProvider.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\ISqlProvider.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\ISqlProvider.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\ISqlProvider.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\ISqlProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:19:48.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IMetromartUpdatePathConventionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdatePathConventionFactory.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdatePathConventionFactory.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdatePathConventionFactory.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\IMetromartUpdatePathConventionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:53:41.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MetromartPriceInventoryUpdateItemDataHolder.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\MetromartPriceInventoryUpdateItemDataHolder.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Entities\\MetromartPriceInventoryUpdateItemDataHolder.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\MetromartPriceInventoryUpdateItemDataHolder.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Entities\\MetromartPriceInventoryUpdateItemDataHolder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:08:51.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ISendPandaMartUpdatesService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ISendPandaMartUpdatesService.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\ISendPandaMartUpdatesService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ISendPandaMartUpdatesService.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\ISendPandaMartUpdatesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:45:49.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Enum\\Enum.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Enum\\Enum.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Enum\\Enum.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Enum\\Enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:10:09.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PandamartPriceInventoryUpdateItemDataHolder.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\PandamartPriceInventoryUpdateItemDataHolder.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Entities\\PandamartPriceInventoryUpdateItemDataHolder.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\PandamartPriceInventoryUpdateItemDataHolder.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Entities\\PandamartPriceInventoryUpdateItemDataHolder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:02:40.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DataHolder.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\DataHolder.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Entities\\DataHolder.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\DataHolder.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Entities\\DataHolder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:07:56.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ISendUpdatesServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ISendUpdatesServiceFactory.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\ISendUpdatesServiceFactory.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ISendUpdatesServiceFactory.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\ISendUpdatesServiceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:12:10.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DataHolderPandaMart.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\DataHolderPandaMart.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Entities\\DataHolderPandaMart.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Entities\\DataHolderPandaMart.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Entities\\DataHolderPandaMart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:01:10.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Data.Projections\\Warehouse.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Data.Projections\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Data.Projections\\Warehouse.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Data.Projections\\Warehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:50:19.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ISendUpdatesService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ISendUpdatesService.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\ISendUpdatesService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ISendUpdatesService.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\ISendUpdatesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:55:32.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IMetromartSFTPipAddress.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IMetromartSFTPipAddress.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\IMetromartSFTPipAddress.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IMetromartSFTPipAddress.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\IMetromartSFTPipAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:51:55.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IMetromartSFTPipAddressFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IMetromartSFTPipAddressFactory.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\IMetromartSFTPipAddressFactory.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IMetromartSFTPipAddressFactory.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\IMetromartSFTPipAddressFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:51:29.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ISendPandaMartUpdatesServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ISendPandaMartUpdatesServiceFactory.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\ISendPandaMartUpdatesServiceFactory.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\ISendPandaMartUpdatesServiceFactory.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\ISendPandaMartUpdatesServiceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:05:28.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IPandamartUpdatePathConventionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdatePathConventionFactory.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdatePathConventionFactory.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdatePathConventionFactory.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdatePathConventionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:48:49.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IPandamartUpdatePathConvention.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdatePathConvention.cs",
+              "RelativeDocumentMoniker": "PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdatePathConvention.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdatePathConvention.cs",
+              "RelativeToolTip": "PriceInventoryUpdates\\Application\\Interfaces\\IPandamartUpdatePathConvention.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:49:26.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SqlServerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Provider\\SqlServerProvider.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Provider\\SqlServerProvider.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Provider\\SqlServerProvider.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Provider\\SqlServerProvider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:19:39.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Data.Common.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj",
+              "RelativeDocumentMoniker": "modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj",
+              "RelativeToolTip": "modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\Data.Common.Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T00:17:24.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Data.Sql.csproj",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Data.Sql.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T00:17:19.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DataFieldAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\DataFieldAttribute.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\DataFieldAttribute.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\DataFieldAttribute.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\DataFieldAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:02:03.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DynamicMapper.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\DynamicMapper.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\DynamicMapper.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\DynamicMapper.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\DynamicMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:02:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SqlQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Querying\\SqlQuery.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Querying\\SqlQuery.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Querying\\SqlQuery.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Querying\\SqlQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:50:45.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "QueryFilter.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Querying\\QueryFilter.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Querying\\QueryFilter.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Querying\\QueryFilter.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Querying\\QueryFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:50:44.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SqlTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\SqlTransaction.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\SqlTransaction.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\SqlTransaction.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\SqlTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:07:42.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ReflectionDataMapper.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\ReflectionDataMapper.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\ReflectionDataMapper.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\ReflectionDataMapper.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\ReflectionDataMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:02:11.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IDataMapper.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\IDataMapper.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\IDataMapper.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\IDataMapper.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\IDataMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:02:13.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FieldMapping.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\FieldMapping.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\FieldMapping.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\FieldMapping.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\Mapping\\FieldMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:02:16.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ISqlCaller.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\ISqlCaller.cs",
+              "RelativeDocumentMoniker": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\ISqlCaller.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\ISqlCaller.cs",
+              "RelativeToolTip": "modules\\Sql-Data-Access-Tool-Wrapper-Net-Core\\Data.Sql\\ISqlCaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:07:39.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PagedDataSource.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\PagedDataSource.cs",
+              "RelativeDocumentMoniker": "modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\PagedDataSource.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\PagedDataSource.cs",
+              "RelativeToolTip": "modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\PagedDataSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:07:37.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IDataWriter.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IDataWriter.cs",
+              "RelativeDocumentMoniker": "modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IDataWriter.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IDataWriter.cs",
+              "RelativeToolTip": "modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IDataWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:42:05.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IAsyncEnumerableQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IAsyncEnumerableQuery.cs",
+              "RelativeDocumentMoniker": "modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IAsyncEnumerableQuery.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\FirstProjectSNR\\DeployToProd\\Ecommerce.Metromart.v5 GitHub\\Ecommerce.Metromart.v5\\modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IAsyncEnumerableQuery.cs",
+              "RelativeToolTip": "modules\\Data-Common-Contracts-Net-Core\\Data.Common.Contracts\\IAsyncEnumerableQuery.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:41:54.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

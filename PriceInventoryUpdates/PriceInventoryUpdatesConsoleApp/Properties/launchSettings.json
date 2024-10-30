@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "PriceInventoryUpdatesConsoleApp-Dev": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "PriceInventoryUpdatesConsoleApp-Prod": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Production"
+      }
+    }
+  }
+}
